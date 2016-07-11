@@ -1,7 +1,7 @@
 ---
 description: 'Theatre, performance and esoteric practices'
-dateModified: '2016-07-11T04:20:44.598Z'
-datePublished: '2016-07-11T04:20:45.432Z'
+dateModified: '2016-07-11T04:21:44.318Z'
+datePublished: '2016-07-11T04:22:21.969Z'
 title: Stinky Boy!
 author: []
 isBasedOnUrl: >-
